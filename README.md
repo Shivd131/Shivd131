@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Shiv, a Web Developer from India.<br><br>- 🔭 I’m a pre-final year student at Vellore Institute of Technology.<br>- 📚 I'm learning Spring Boot, Node.js, Cloud technologies, and Next.js in web development, while also exploring Machine Learning concepts <br>- </p>
+<p align="left">I'm Shiv, a Web Developer from India.<br><br>- 🔭 I’m a pre-final year student at Vellore Institute of Technology.<br>- 📚 I'm learning Spring Boot, Node.js, Cloud technologies, and Next.js in web development, while also exploring Machine Learning concepts <br> </p>
 
 ###
 
