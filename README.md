@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Shiv, a Web Developer from India.<br><br>- 🔭 I’m a pre-final year student at Vellore Institute of Technology.<br>- 📚 I'm learning Spring Boot, Node.js, Cloud technologies, and Next.js in web development, while also exploring Machine Learning concepts <br> </p>
+<p align="left">I'm Shiv, a Web Developer from India.<br><br>- 🔭 I’m a final year student at Vellore Institute of Technology.<br>- 📚 Proficient in Spring Boot, Node.js, Cloud technologies, and Next.js in web development, while also exploring Machine Learning concepts <br> </p>
 
 ###
 
@@ -30,11 +30,13 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 I have played around with: </h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
